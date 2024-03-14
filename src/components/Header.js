@@ -3,7 +3,7 @@ const Header = () => {
  return(
     <div className = "container">
         <div className = "title">
-        PLAN A TOUR 
+        PLAN A TOURRR!!
         </div>
         
     </div>
